@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of William Sherwin, Esq., and Elizabeth his wife against the Right Honourable John Earl of Bath, upon petition in the House of Lords.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43968</idno><idno type="EEBO-CITATION">625261950</idno>
+  <idno type="VID">211341</idno>
+  <idno type="EEBO-PROQUEST">2240869998</idno>
+  
+            <idno type="OCLC"> 625261950</idno>
+            <idno type="OCLC">ocn 625261950</idno>
+            <idno type="STC">Wing S3412A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211341)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2971:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of William Sherwin, Esq., and Elizabeth his wife against the Right Honourable John Earl of Bath, upon petition in the House of Lords.</title>
+                  <author>David, Mainwaring.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Signed at end: Mainwaring David.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bath, John Grenville, --  Earl of, 1628-1701.</term>
+               <term type="personal_name">Montagu, William, --  Sir, 1619?-1706.</term>
+               <term type="personal_name">Albemarle, Elizabeth Monck, --  Duchess of, 1654-1734.</term>
+               <term type="personal_name">Albemarle, Christopher Monck, --  Duke of, 1653-1688 --  Estate.</term>
+               <term type="personal_name">Sherwin, William.</term>
+               <term type="topical_term">Inheritance and succession --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:211341:1"/>
+            <pb facs="tcp:211341:2"/>
+            <head>THE CASE OF William Sherwin, Esq; and Elizabeth HIS Wife, against the Right Honourable <hi>John</hi> Earl of <hi>Bath,</hi> upon Petition in the House of Lords.</head>
+            <p>THE most Noble <hi>George,</hi> late Duke of <hi>Albemarle,</hi> upon the Marriage of <hi>Christopher,</hi>
+               <note place="margin">2021 <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> 1669.</note> the late Duke of <hi>Albemarle,</hi> with the Lady <hi>Elizabeth Cavendish,</hi> now Wife of the Right Honourable the Earl of <hi>Mountague,</hi> did by Lease and Release settle All his Man<g ref="char:EOLhyphen"/>nors, Lordships and other his real Estate, worth about 12000 Pounds <hi>per Annum,</hi> on certain Trustees therein mentioned to the said late Duke <hi>Christopher</hi> and his Issue, and for want of such Issue, to the Right Heirs of him the said Duke <hi>George.</hi>
+            </p>
+            <p>The said late Duke <hi>Christopher</hi> died without Issue; whereby the said Estate descended to <hi>Elizabeth</hi>
+               <note place="margin">1688.</note>
+               <hi>Pride,</hi> who was sole Daughter and Heir of <hi>Thomas Monke,</hi> who was Eldest Brother and Heir of <hi>George,</hi> late Duke of <hi>Albemarle.</hi>
+            </p>
+            <p>
+               <hi>Elizabeth Pride</hi> died, and then the Premisses descended to <hi>Thomas Pride,</hi> her only Son and Heir; <hi>Thomas Pride</hi> died, and then the Premisses descended to <hi>Elizabeth</hi> and <hi>Lucy Pride,</hi> Enfants, <note place="margin">1693.</note> his only Daughters and Coheirs. <note place="margin">1695.</note>
+            </p>
+            <p>
+               <hi>Elizabeth,</hi> one of the Enfants, died about one Year old, or under; and then the Premisses all <note place="margin">1695.</note> descended to <hi>Lucy Pride,</hi> as sole surviving Daughter and Heir, of the said <hi>Thomas Pride.</hi>
+            </p>
+            <p>The said <hi>Lucy Pride</hi> died an Enfant, of about Seaven Years old or under, and then the Pre<g ref="char:EOLhyphen"/>misses <note place="margin">1699.</note> descended to—</p>
+            <p>
+               <hi>—Elizabeth Sherwin,</hi> who is the only Daughter and Heir of <hi>Elizabeth Pride,</hi> who was Grand-Mother to the said <hi>Lucy Pride</hi> the Enfant, and only Sister and Heir of the said <hi>Thomas Pride,</hi> the Enfants Father, and the only Aunt and Heir of the said <hi>Lucy Pride,</hi> the surviving Enfant and Heir.</p>
+            <p>The Earl of <hi>Bath</hi> possesses great part of the real Estate, late of the said Duke <hi>George,</hi> under pretence that the same was given him by Deed or Will of the late Duke <hi>Christopher.</hi>
+            </p>
+            <p>That the late Duke <hi>Christopher</hi> was but Tenant for Life, by Duke <hi>George</hi>'s Lease and Release of 20, 21, <hi>December</hi> 1669, and so could not give away the said Estate by Deed or Will, the remain<g ref="char:EOLhyphen"/>der in Fee being limitted to the right Heirs of Duke <hi>George,</hi> and the remainder in Fee never vest<g ref="char:EOLhyphen"/>ed in the said late Duke <hi>Christopher;</hi> he not being Heir at Law to the said Duke <hi>George.</hi>
+            </p>
+            <p>That the Earl of <hi>Bath</hi> well knowing this, refuses to let the said <hi>William Sherwin</hi> and <hi>Elizabeth</hi> his Wife prosecute any Suite in Law or Equity for recovery of the said Estate, and insists upon his Pri<g ref="char:EOLhyphen"/>viledge of being one of the Peers of this Realm, and so ought not to be sued in any Cause what<g ref="char:EOLhyphen"/>soever, during the priviledge of Parliament, although—.</p>
+            <p>—It appears by an Order of your Lordships, That he waved his Priviledge, and your Lordships <note place="margin">29. <hi>January</hi> 1693.</note> consented thereto, in any suite in Law or Equity, then begun, or to be begun by <hi>Thomas Pride,</hi> touch<g ref="char:EOLhyphen"/>ing any part of the Estate of the said <hi>George,</hi> late Duke of <hi>Albemarle.</hi>
+            </p>
+            <p>That your Petitioners claim under the same Title, and sue for the same Estate. So hope that his Lordship having once waved his Priviledge in this Matter, shall not be permitted to resumethe same.</p>
+            <p>And the rather, for that some of your Petitioner's Witnesses being already dead, and many of their remaining Witnesses very Aged, your Petitioners may receive irreparable Damage, and lessening the Proofs of their most just Right and Title to the said Estate, by not perpetuating the Testimony of their Witnesses in case his Lordship be permitted his Priviledge, already waved by him as aforesaid.</p>
+            <p>
+               <hi>Object.</hi> If it be Objected that the Earl of <hi>Bath</hi> hath formerly waved his Priviledge in this Matter, and that there have been two Trials already had upon this very Title.</p>
+            <p>
+               <note place="margin">☞</note>
+               <hi>Ans.</hi> That in the former Trials they were unprepared, and short in several Matters of Evidence, which the Petitioners have now discovered, and have new Proofs to offer at any future Trial; and since these two Trials there have been three or four Verdicts at Law against the Deed, under which the Earl of <hi>Bath</hi> pretends Title to the Premisses in Question.</p>
+            <q>So we humbly Pray that his Lordship may wave his Priviledge.</q>
+            <closer>
+               <signed>Mainwaring David.</signed>
+            </closer>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:211341:3"/>
+            <p>THE CASE OF <hi>William Sherwin,</hi> Esq; AND <hi>ELIZABETH</hi> his Wife.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
